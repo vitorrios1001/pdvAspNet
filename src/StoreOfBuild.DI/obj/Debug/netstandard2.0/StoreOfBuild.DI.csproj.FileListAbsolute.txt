@@ -1,0 +1,12 @@
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.DI/bin/Debug/netstandard2.0/StoreOfBuild.DI.deps.json
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.DI/bin/Debug/netstandard2.0/StoreOfBuild.DI.dll
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.DI/bin/Debug/netstandard2.0/StoreOfBuild.DI.pdb
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.DI/obj/Debug/netstandard2.0/StoreOfBuild.DI.csproj.CoreCompileInputs.cache
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.DI/obj/Debug/netstandard2.0/StoreOfBuild.DI.AssemblyInfoInputs.cache
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.DI/obj/Debug/netstandard2.0/StoreOfBuild.DI.AssemblyInfo.cs
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.DI/obj/Debug/netstandard2.0/StoreOfBuild.DI.dll
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.DI/obj/Debug/netstandard2.0/StoreOfBuild.DI.pdb
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.DI/bin/Debug/netstandard2.0/StoreOfBuild.Data.dll
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.DI/bin/Debug/netstandard2.0/StoreOfBuild.Domain.dll
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.DI/bin/Debug/netstandard2.0/StoreOfBuild.Data.pdb
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.DI/bin/Debug/netstandard2.0/StoreOfBuild.Domain.pdb

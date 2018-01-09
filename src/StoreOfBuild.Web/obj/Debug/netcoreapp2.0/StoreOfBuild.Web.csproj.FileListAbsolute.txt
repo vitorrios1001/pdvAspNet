@@ -1,0 +1,10 @@
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/obj/Debug/netcoreapp2.0/StoreOfBuild.Web.csproj.CoreCompileInputs.cache
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/obj/Debug/netcoreapp2.0/StoreOfBuild.Web.AssemblyInfoInputs.cache
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/obj/Debug/netcoreapp2.0/StoreOfBuild.Web.AssemblyInfo.cs
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/bin/Debug/netcoreapp2.0/StoreOfBuild.Web.deps.json
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/bin/Debug/netcoreapp2.0/StoreOfBuild.Web.runtimeconfig.json
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/bin/Debug/netcoreapp2.0/StoreOfBuild.Web.runtimeconfig.dev.json
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/bin/Debug/netcoreapp2.0/StoreOfBuild.Web.dll
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/bin/Debug/netcoreapp2.0/StoreOfBuild.Web.pdb
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/obj/Debug/netcoreapp2.0/StoreOfBuild.Web.dll
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/obj/Debug/netcoreapp2.0/StoreOfBuild.Web.pdb

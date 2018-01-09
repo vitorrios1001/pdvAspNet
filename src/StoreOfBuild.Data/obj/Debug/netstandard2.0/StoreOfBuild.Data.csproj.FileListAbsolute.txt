@@ -1,0 +1,10 @@
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Data/bin/Debug/netstandard2.0/StoreOfBuild.Data.deps.json
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Data/bin/Debug/netstandard2.0/StoreOfBuild.Data.dll
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Data/bin/Debug/netstandard2.0/StoreOfBuild.Data.pdb
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Data/bin/Debug/netstandard2.0/StoreOfBuild.Domain.dll
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Data/bin/Debug/netstandard2.0/StoreOfBuild.Domain.pdb
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Data/obj/Debug/netstandard2.0/StoreOfBuild.Data.csproj.CoreCompileInputs.cache
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Data/obj/Debug/netstandard2.0/StoreOfBuild.Data.AssemblyInfoInputs.cache
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Data/obj/Debug/netstandard2.0/StoreOfBuild.Data.AssemblyInfo.cs
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Data/obj/Debug/netstandard2.0/StoreOfBuild.Data.dll
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Data/obj/Debug/netstandard2.0/StoreOfBuild.Data.pdb
