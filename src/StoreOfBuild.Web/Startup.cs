@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-
+using StoreOfBuild.DI;
 namespace StoreOfBuild.Web
 {
     public class Startup
@@ -19,9 +19,9 @@ namespace StoreOfBuild.Web
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
-        public void ConfigureServices(IServiceCollection services)
+        public void ConfigureServices(IServiceCollection services )
         {       
-            Bootstrap.Configure(services, configuration.GetConnectionString("DefaultConnection"));      
+            Bootstrap.Configure(services , Configuration.GetConnectionString("DefaultConnection"));      
             services.AddMvc();
         }
 

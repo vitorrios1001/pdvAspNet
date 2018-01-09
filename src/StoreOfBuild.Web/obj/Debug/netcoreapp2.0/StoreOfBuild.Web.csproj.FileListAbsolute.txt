@@ -8,3 +8,9 @@
 /home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/bin/Debug/netcoreapp2.0/StoreOfBuild.Web.pdb
 /home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/obj/Debug/netcoreapp2.0/StoreOfBuild.Web.dll
 /home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/obj/Debug/netcoreapp2.0/StoreOfBuild.Web.pdb
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/bin/Debug/netcoreapp2.0/StoreOfBuild.Data.dll
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/bin/Debug/netcoreapp2.0/StoreOfBuild.DI.dll
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/bin/Debug/netcoreapp2.0/StoreOfBuild.Domain.dll
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/bin/Debug/netcoreapp2.0/StoreOfBuild.DI.pdb
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/bin/Debug/netcoreapp2.0/StoreOfBuild.Data.pdb
+/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Web/bin/Debug/netcoreapp2.0/StoreOfBuild.Domain.pdb
