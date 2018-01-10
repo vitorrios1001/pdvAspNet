@@ -2,7 +2,8 @@
 using Microsoft.Extensions.DependencyInjection;
 using StoreOfBuild.Data;
 using Microsoft.EntityFrameworkCore;
-
+using StoreOfBuild.Domain;
+using StoreOfBuild.Domain.Products;
 
 namespace StoreOfBuild.DI
 {
@@ -12,7 +13,8 @@ namespace StoreOfBuild.DI
         {
             services.AddDbContext<ApplicationDbContext>(optionsBuilder =>
                 optionsBuilder.UseMySql(connection));
-
+            services.AddSingleton(typeof(IRepository<>), typeof(Repository<>));
+            services.AddSingleton(typeof(CategoryStorer));
         }
 
     }

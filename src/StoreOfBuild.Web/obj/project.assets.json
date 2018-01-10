@@ -12839,7 +12839,8 @@
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
-      "StoreOfBuild.DI >= 1.0.0"
+      "StoreOfBuild.DI >= 1.0.0",
+      "StoreOfBuild.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12872,6 +12873,9 @@
           "projectReferences": {
             "/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.DI/StoreOfBuild.DI.csproj": {
               "projectPath": "/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.DI/StoreOfBuild.DI.csproj"
+            },
+            "/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Domain/StoreOfBuild.Domain.csproj": {
+              "projectPath": "/home/vitor/projetosDosGit/pdvAspNet/src/StoreOfBuild.Domain/StoreOfBuild.Domain.csproj"
             }
           }
         }
