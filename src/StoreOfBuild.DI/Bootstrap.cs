@@ -13,8 +13,8 @@ namespace StoreOfBuild.DI
         {
             services.AddDbContext<ApplicationDbContext>(optionsBuilder =>
                 optionsBuilder.UseMySql(connection));
-            services.AddSingleton(typeof(IRepository<>), typeof(Repository<>));
-            services.AddSingleton(typeof(CategoryStorer));
+            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+            services.AddScoped(typeof(CategoryStorer));
         }
 
     }
